@@ -3,8 +3,7 @@
 - This is the project of Movie information validation from two different websites.
 - In this I have valitate the data like Release date and Contry name using Assertion method.
 <!Bloclquote>
-> Plugin used:
--Selenium
+> Plugins used: -Selenium
 -TestNG
 -WebDriver manager
 
