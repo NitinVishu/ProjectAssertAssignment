@@ -9,7 +9,7 @@
 -WebDriver manager
 
 ## TestCase Formate
-- have designed POM classes and executed them separately under TestLayer package.
+**I have designed POM classes and executed them separately under TestLayer package.**
 
 <!-- UL --> 
 * Test 1:  End to end Execution of IMDB site with Reference to Pushpa Movie.
